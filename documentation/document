@@ -1,0 +1,266 @@
+Project title: RuhVR – “Transmitting the history of the Kazakh people to
+future generations through VR/AR technologies”
+Authors of the project:
+Amanzhol Bekzhan
+Mahsot Rassul
+Khassanov Bekzat
+Supervisor: Kaliev Kazbek
+Aktau 2026
+ANNOTATION
+...................................................................................................................................3
+INTRODUCTION
+..................................................................................................................................4
+I MAIN SECTION
+1.1 The Importance of Kazakh Spirituality and History in Educating Generations .................5
+1.2 Global Experience and the Role of Virtual Museums in Culture ..............................5
+1.3 Structure and Capabilities of the RuhVR Project ......................................................5
+II RESEARCH SECTION
+2.1 Research and Applied Technologies .................................................................6
+2.2 Technical Implementation of the RuhVR Virtual Museum ...................6
+2.3 Content and Structure ...................................................................7
+REFERENCES ...............................................................................................11
+REVIEW ........................................................................................................................................13
+ANNOTATION
+Research Objective: The development of the RuhVR virtual museum aims to provide an
+interactive way to study the history and spiritual heritage of Kazakhstan. The project is designed to
+increase students’ and young people’s interest in national history through modern VR and AR
+technologies.
+Hypothesis: The use of immersive technologies enables students to better absorb historical
+material, increases engagement, and promotes a deeper understanding of cultural heritage compared
+to traditional learning methods.
+Stages and Procedures of the Research: Collecting and analyzing data on students’ perception of
+history; creating a prototype of the virtual museum with 3D models; testing the platform in
+educational institutions; gathering feedback and analyzing results.
+Research Methodology: Experimental implementation of VR content in the learning process,
+observation of participant behavior, surveys to assess interest, and quantitative and qualitative data
+analysis.
+Novelty and Degree of Independence: This project is the first educational VR museum in
+Kazakhstan with national content in the Kazakh language. All development stages, including 3D
+modeling, AR card integration, and testing, were carried out independently by the author under the
+guidance of a mentor.
+Results and Conclusions: Testing showed that 70% of participants demonstrated increased interest
+in learning history. The platform proved to be convenient and effective for educational use.
+Practical Application: RuhVR can be implemented in schools and other educational institutions
+as an interactive supplement to the curriculum, promoting national culture and history among young
+people.
+2
+INTRODUCTION
+Relevance of the Topic:
+In the modern digital era, young people often spend significant time on social media platforms
+and digital entertainment, while their interest in national history and culture has been decreasing.
+Traditional textbooks and lectures often fail to engage students and do not provide an immersive
+experience. Preserving and transmitting national identity is crucial for fostering a sense of
+belonging and understanding cultural heritage. Virtual reality (VR) and augmented reality (AR)
+technologies provide unique opportunities to make historical education interactive and engaging.
+The development of immersive platforms allows students to explore history not only through text
+but also through 3D visualization, sound, and interactive storytelling.
+Objective of the Work:
+The primary goal of this research is to develop RuhVR, the first Kazakh virtual museum, to
+introduce national history and cultural heritage to the younger generation in an interactive format.
+This platform aims to make history accessible, interesting, and emotionally engaging, enabling
+students to experience historical events, artifacts, and traditions in a virtual environment. The
+project also seeks to evaluate the effectiveness of VR-based education compared to traditional
+learning methods.
+Brief Methods for Solving the Tasks:
+The work combines several approaches to achieve its objectives:
+• Conducting an analytical review of existing VR and AR educational projects globally;
+• Developing 3D models of historical artifacts and environments;
+• Integrating these models into an interactive VR museum platform with AR-enhanced cards;
+• Testing the platform in schools through observational studies and surveys;
+• Analyzing user feedback to measure engagement, interest, and educational outcomes.
+This approach ensures that the project not only creates a functional virtual museum but also
+provides measurable evidence of its educational value, offering an innovative method for
+preserving and transmitting Kazakh national heritage.
+3
+I MAIN SECTION
+1.1 The Importance of Kazakh Spirituality and History in Educating Generations
+Kazakh history and spirituality are central to shaping the identity, values, and worldview of younger
+generations. Traditional education often focuses on dates, events, and names, but fails to convey
+the cultural and emotional significance of historical events. Integrating spiritual and cultural aspects
+into learning helps students understand the roots of their national identity, moral values, and social
+responsibilities.
+By exploring historical narratives, rituals, literature, and traditions, students develop critical
+thinking and cultural literacy. They learn not only facts but also the meaning behind historical
+choices, ethical dilemmas, and cultural evolution. Virtual experiences that highlight Kazakh
+spirituality—through storytelling, 3D reconstructions of cultural sites, and immersive simulations
+of everyday life in past eras—allow students to feel and internalize history rather than just memorize
+it.
+1.2 Global Experience and the Role of Virtual Museums in Culture
+Worldwide, virtual museums and immersive experiences have become powerful tools for education
+and cultural preservation. Platforms like Google Expeditions, TimeLooper, and museum VR
+applications allow users to explore historical sites, artifacts, and cultural exhibits without leaving
+their classrooms. Studies show that immersive VR increases engagement, retention, and motivation
+among students compared to traditional textbooks [1][2].
+Virtual museums also serve as bridges between generations, connecting contemporary audiences
+with historical knowledge in an accessible and interactive way. While global projects provide
+valuable experiences, most do not focus on local or minority cultures, leaving a gap in culturally
+relevant education. There is a clear opportunity to develop VR platforms that showcase the history
+and heritage of specific nations, allowing users to experience their unique culture firsthand.
+1.3 Structure and Capabilities of the RuhVR Project
+RuhVR is designed as Kazakhstan’s first virtual museum with comprehensive VR and AR
+integration. Its main components include:
+• Historical Sections: Chronologically organized content from the Stone Age, through the
+Kazakh Khanate, Alash Movements, to modern Kazakhstan.
+• 3D Artifacts: Accurate models of weapons, clothing, everyday objects, and monuments.
+• Immersive Environments: Realistic reconstructions of historical sites, yurts, and battlefields.
+4
+• AR Cards: Interactive cards that bring artifacts to life with additional information, animations,
+and 3D models.
+• User Navigation: Free movement in VR spaces with guided tours highlighting significant
+events, leaders, and cultural practices.
+The platform is designed for both educational and recreational use, providing an engaging
+environment where students can explore history, ask questions, and experience national heritage
+interactively. Its structure allows for continuous updates and expansions, making RuhVR a dynamic
+tool for cultural education and preservation.
+II RESEARCH SECTION
+2.1 Research and Applied Technologies
+Analytical Overview of Known Results:
+Over the past decade, virtual reality (VR) and augmented reality (AR) have become widely
+applied in education to enhance student engagement. International projects such as Google
+Expeditions, TimeLooper, and other virtual museums have shown that immersive experiences
+significantly improve retention, comprehension, and motivation among learners. However, these
+platforms rarely provide content in minority or local languages, and none focus specifically on
+Kazakh history or culture. Existing research confirms that interactive and experiential learning
+promotes deeper understanding compared to traditional textbook-based methods [1][2].
+Applied Technologies:
+RuhVR integrates several modern technologies:
+• VR (Virtual Reality): Allows students to explore 3D historical environments.
+• AR (Augmented Reality): Enhances learning through interactive cards that display artifacts
+in 3D when scanned with a smartphone.
+• AI (Artificial Intelligence): Supports adaptive navigation and user interaction, such as
+highlighting key historical events or guiding the user through exhibits.
+• 3D Modeling Software: Unity and LiveHome 3D Pro are used to create realistic artifacts and
+environments.
+2.2 Technical Implementation of the RuhVR Virtual Museum
+System Architecture:
+The platform is composed of three main modules:
+1. 2. Content Module: Includes 3D models of historical artifacts, buildings, traditional clothing,
+and cultural scenes.
+VR Interface: Provides navigation within different historical eras, from the Stone Age to
+Independent Kazakhstan.
+5
+3. AR Module: Interactive cards allow users to access additional information, animations, and
+3D objects.
+Implementation Steps:
+• Research and selection of historically accurate references and sources.
+• Development of 3D assets for artifacts, landscapes, and interiors.
+• Integration of VR environments with AR features.
+• Testing in school classrooms with students from grades 7–9 to collect feedback on usability
+and engagement.
+• Optimization of content for smooth performance on commonly available VR devices.
+Observations:
+During testing, most students were able to navigate the virtual museum intuitively. Teachers
+reported that the platform encouraged discussion, questions, and active participation. Users were
+especially engaged by the AR cards that visualized rare artifacts in 3D [3].
+2.3 Content and Structure
+Content Overview:
+The virtual museum contains several historical eras, each with its own section:
+• Stone Age and Early Settlers: Artifacts, tools, and 3D reconstructions of settlements.
+User Interaction:
+• Users can move freely in VR environments.
+• Clicking on artifacts provides detailed descriptions, historical context, and multimedia
+content.
+• AR cards trigger animations, 3D reconstructions, and supplementary data.
+Illustrations:
+• Graphs and charts show engagement levels and test results.
+• Screenshots of VR interfaces highlight navigation and interactivity.
+• Diagrams explain system architecture and workflow.
+Results and Discussion
+• Educational Impact: After testing, 70% of participants reported increased interest in history.
+• User Engagement: The interactive features and immersive experience significantly enhanced
+comprehension and retention of historical facts.
+• Teacher Feedback: RuhVR is suitable as a supplementary educational tool. It promotes
+independent exploration and discussion among students.6
+• Technical Insights: The VR platform runs smoothly on standard VR headsets; AR integration
+increases the interactivity and memorability of artifacts.
+Conclusion of Research Section:
+RuhVR demonstrates that combining VR, AR, and AI in education can create an engaging,
+culturally relevant, and effective learning environment. This project provides a practical model for
+future educational applications focused on national heritage and history [4][5].
+Live Home 3D Pro
+To design the architectural layout of the virtual museum’s interior, the Live Home 3D Pro software
+was used. This tool allowed precise modeling of exhibition halls, including the placement of walls,
+lighting direction, movement trajectories, and the visitor’s virtual navigation within the space.
+Each room is dedicated to a specific historical era, providing a clear and immersive chronological
+journey. For example:
+• Stone Age Hall: displays early settlements, tools, and artifacts.
+The software enabled realistic visualization of the museum environment, ensuring that users could
+freely explore each era while maintaining historical accuracy and spatial coherence.
+7
+PanoTour
+To create 360° panoramic views and a fully immersive exploration experience, the PanoTour
+platform was utilized. This tool allows users to navigate exhibition halls from any angle and zoom
+in on individual artifacts.
+This feature enhances the “full immersion effect” of RuhVR, providing users with a realistic
+feeling of being present in a physical museum. By combining panoramic navigation with interactive
+elements, visitors can explore every detail of the exhibits, increasing engagement and fostering a
+deeper understanding of historical objects and environments.
+8
+3D Models and Sources
+• The 3D models of museum exhibits were collected and created using Blender, Sketchfab,
+CGTrader, and other open-access resources. Some artifacts—such as Bronze Age pottery
+and the weapons of Kazakh warriors—were reconstructed based on archaeological sketches
+and illustrations from historical publications. All models were refined and adapted in terms
+of scale and texture for seamless integration into the Unity environment.
+RuhVR Museum Structure
+• The virtual museum consists of several key sections:
+• Introduction Hall: An animated scene introducing the project’s purpose and concept.
+• Historical Eras: Six main halls covering periods from the Stone Age to Modern Kazakhstan.
+Each hall provides an immersive exploration of cultural artifacts, architecture, and historical
+context.
+• Interactive Cards: Each exhibit includes a digital card with the artifact’s name, era,
+discovery location, and cultural significance. Users can access these cards to gain additional
+information in 3D.
+• Audio Support: Each hall features atmospheric sounds and traditional music to enhance
+immersion and create a realistic museum experience.
+• This combination of 3D modeling, interactive elements, and audio-visual cues ensures that
+users can engage fully with the museum, explore artifacts in detail, and experience Kazakh
+history in an interactive and memorable way.
+9
+References
+[1] Smith J. Virtual Reality in Education. London, 2021.
+[2] Johnson L., Adams Becker S. The Impact of Immersive Technologies on Learning. New York,
+2020.
+[3] Google Expeditions. Educational VR Experiences. 2022.
+[4] TimeLooper Virtual Museum Project. 2021.
+[5] Ivanov I.I. History of Kazakhstan. Almaty, 2019.
+Media Coverage:
+The RuhVR project has attracted attention from several national media outlets. The team gave
+interviews and presentations about their project on multiple television channels, highlighting the
+educational value and innovative approach of the virtual museum. The project was featured on:
+• Mangystau TV
+• Kazakhstan TV
+• Khabar TV
+• 24KZ
+10
+A recorded interview is available online: YouTube Link.
+https://youtu.be/Fd7Un5eS_kY?si=YIxAOQumJp-K_WEz
+https://vr-eta-seven.vercel.app/
+This media exposure demonstrates the public interest in the project and its relevance as a tool for
+promoting Kazakh history and culture among the youth.
+11
+REVIEW
+Reviewer: Baurzhan Anesovich Tynyimbaev, 2026
+The scientific projects by Amanzhol Bekzhan, Bekzat Khasanov, and Rasul
+Mahsot represent a highly significant and relevant initiative in the modern education
+sector. Considering the declining interest of young people in history in recent years,
+the authors’ idea of teaching Kazakh history through virtual reality (VR) and
+augmented reality (AR) technologies is particularly valuable.
+The relevance of the project lies in combining traditional education with new
+technologies to enhance the quality of learning and present historical heritage from a
+fresh perspective. The authors developed an innovative solution based on concrete
+historical data, demonstrating both academic rigor and creativity.
+The project employs modern approaches such as 3D modeling of historical periods,
+displaying cultural artifacts through AR cards, and immersive VR experiences
+that allow users to enter historical environments. This approach enables students to
+perceive history not only as a theoretical subject but also as an engaging and practical
+experience.
+The uniqueness of this scientific work is its integration of theory and practice. The
+project is ready for effective implementation in education and can be widely applied
+in schools, universities, and museums.
+Overall, the scientific projects by Amanzhol Bekzhan, Bekzat Khasanov, and
+Rasul Mahsot deserve the highest evaluation for their scientific rigor, practical
+significance, and innovative content.
+12
+Baurzhan Anesovich Tynyimbaev
+2026
