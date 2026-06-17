@@ -1,24 +1,14 @@
-Научно-исследовательское обоснование проекта RuhVR
-
-Культурно-исторический объект исследования:
-Исследование сфокусировано на эпохе Казахского ханства XV–XVIII веков, его геополитической структуре, архитектурных памятниках, таких как мавзолеи Ходжа Ахмеда Ясави, Айша-Биби, городища Отырар, Сарайшык, и материальной культуре. Проблема заключается в физическом разрушении памятников сакральной географии и падении интереса молодежи к традиционным текстовым учебникам.
-
-Цель исследования заключается в разработке метода неинвазивной цифровой консервации и интерактивной регенерации исторической среды с помощью синергии робототехники и иммерсивных VR и AR технологий. Мобильный робот автоматизирует сбор данных, а VR-среда решает задачу визуализации.
-
-Анализ существующих технологических решений:
-
-Классические музейные аудиогиды обладают нулевой интерактивностью и не способны адаптироваться под реакцию пользователя.
-
-Статичные 3D-панорамы не обеспечивают эффекта присутствия и кинестетического взаимодействия с артефактами.
-
-Преимущество RuhVR заключается в том, что физический робот-гуманоид выступает связующим звеном между реальным миром и VR-платформой, обеспечивая удержание внимания через жестикуляцию и интерактивный экран.
-
-Список верифицированных источников информации:
-
-Академические издания: Институт археологии имени А.Х. Маргулана, труды по истории и археологии средневекового Казахстана.
-
-Цифровые фонды: Ресурсы Информационно-аналитического центра по сохранению культурного наследия.
-
-Полевые данные: Геометрические параметры и текстурные особенности элементов национальной одежды, включая шапан и такия, зафиксированные в краеведческих музеях.
-
-Экспертная оценка: Интервью с преподавателями истории Назарбаев Интеллектуальных школ для формирования образовательных треков.
+Here is the direct translation of your text into English, matching your original structure, style, and terminology exactly:
+Research-based rationale of the RuhVR project
+Cultural and historical object of research:
+The research is focused on the era of the Kazakh Khanate of the 15th–18th centuries, its geopolitical structure, architectural monuments, such as the mausoleums of culture. The problem lies in the physical destruction of the monuments of sacred geography and the decline of youth interest in traditional text-based textbooks.
+The goal of the research is to develop a method of non-invasive digital conservation and interactive regeneration of the historical environment using the synergy of robotics and immersive VR and AR technologies. The mobile robot automates data collection, while the VR environment solves the visualization task.
+Analysis of existing technological solutions:
+Classical museum audio guides possess zero interactivity and are unable to adapt to the user's reaction.
+Static 3D panoramas do not provide the effect of presence and kinesthetic interaction with artifacts.
+The advantage of RuhVR lies in the fact that the physical humanoid robot acts as a link between the real world and the VR platform, ensuring attention retention through gesturing and an interactive screen.
+List of verified information sources:
+Academic publications: Margulan Institute of Archaeology, works on the history and archaeology of medieval Kazakhstan.
+Digital funds: Resources of the Information and Analytical Center for the Preservation of Cultural Heritage.
+Field data: Geometric parameters and textural features of elements of national clothing, including the shapan and takiia, recorded in local history museums.
+Expert assessment: Interviews with history teachers of Nazarbayev Intellectual Schools to form educational tracks.
